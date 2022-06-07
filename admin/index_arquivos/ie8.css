@@ -1,0 +1,54 @@
+#ap-sitename {
+	MARGIN-LEFT: 0px
+}
+#ap-mainmenu UL {
+	MARGIN: 0px; HEIGHT: 30px
+}
+#ap-mainmenu UL UL {
+	HEIGHT: auto
+}
+#ap-mainmenu LI {
+	WIDTH: 90px
+}
+#ap-mainmenu LI.templates-item {
+	WIDTH: 114px
+}
+#ap-mainmenu LI.home-item {
+	WIDTH: 46px
+}
+#ap-mainmenu LI.admin-item {
+	WIDTH: 46px
+}
+#ap-mainmenu LI.tools-item {
+	WIDTH: 46px
+}
+#ap-mainmenu .parent-name {
+	WIDTH: 90%; FLOAT: left
+}
+#ap-mainmenu .component-name {
+	WIDTH: 90%; FLOAT: left
+}
+#ap-mainmenu SPAN.subarrow {
+	DISPLAY: none
+}
+.module-title .module-edit {
+	WIDTH: 20px; FLOAT: left
+}
+.module-title {
+	HEIGHT: 18px
+}
+.module-content {
+	CLEAR: both
+}
+#ap-main {
+	MARGIN-LEFT: 90px
+}
+#quickAddContentForm TABLE.admintable {
+	WIDTH: 90%
+}
+#ualog_form {
+	WIDTH: 90%
+}
+#ap-mainbody {
+	Z-INDEX: -1
+}

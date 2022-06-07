@@ -1,0 +1,39 @@
+HTML {
+	OVERFLOW-Y: hidden; HEIGHT: 100%
+}
+BODY {
+	OVERFLOW-Y: hidden; HEIGHT: 100%
+}
+#changeTemplate {
+	POSITION: relative; MARGIN-TOP: 14px; WIDTH: 310px; BACKGROUND: url(../images/select.png) no-repeat 0px 0px; FLOAT: left; HEIGHT: 26px; COLOR: #000000; FONT-SIZE: 13px
+}
+#changeTemplate:hover {
+	BACKGROUND: url(../images/select.png) no-repeat 0px -26px
+}
+#changeTemplate:active {
+	BACKGROUND: url(../images/select.png) no-repeat 0px -52px
+}
+#changeTemplate:focus {
+	BACKGROUND: url(../images/select.png) no-repeat 0px -52px
+}
+#changeTemplate A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 30px; DISPLAY: block; COLOR: #333333; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 3px; text-shadow: 0px 1px 1px #FFF
+}
+#changeTemplate A:hover {
+	
+}
+UL#templateList {
+	BORDER-BOTTOM: #55d0ff 2px solid; POSITION: absolute; BORDER-LEFT: #55d0ff 2px solid; PADDING-BOTTOM: 5px; OVERFLOW-X: hidden; OVERFLOW-Y: scroll; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: 296px; PADDING-RIGHT: 5px; DISPLAY: none; BACKGROUND: #dedede; HEIGHT: 100px; BORDER-TOP: #55d0ff 2px solid; TOP: 25px; BORDER-RIGHT: #55d0ff 2px solid; PADDING-TOP: 5px; LEFT: 0px; -moz-border-radius: 0 0 5px 5px; -webkit-border-bottom-left-radius: 5px; -webkit-border-bottom-right-radius: 5px; border-radius: 5px 10px
+}
+A.templateLink:hover {
+	BACKGROUND-COLOR: #eee
+}
+UL#templateList LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+.jp_thumb {
+	BORDER-BOTTOM: #fff 3px solid; POSITION: absolute; BORDER-LEFT: #fff 3px solid; BORDER-TOP: #fff 3px solid; TOP: 0px; BORDER-RIGHT: #fff 3px solid; LEFT: 0px; -moz-border-radius: 5px; border-radius: 5px; -webkit-border-radius: 5px
+}
+#demoFrame {
+	WIDTH: 100%; HEIGHT: 100%
+}
